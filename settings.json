@@ -1,4 +1,4 @@
 {
-  "play_sound": true,
+  "beep_count": 3,
   "click_chest": true
 }
